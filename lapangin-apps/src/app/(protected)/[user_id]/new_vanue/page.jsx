@@ -6,4 +6,4 @@ export default function VanueCreate() {
     return (<>
         <VanueCreationPage />
     </>)
-}
+} 
