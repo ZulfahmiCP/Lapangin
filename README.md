@@ -1,3 +1,1 @@
 Lapangin dong
-
-Lapangin aja
