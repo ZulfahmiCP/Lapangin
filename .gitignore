@@ -44,5 +44,4 @@ next-env.d.ts
 node_modules
 lapangin-apps/node_modules
 lapangin-APIs/node-modules
-git-change-user
 /.pnp
